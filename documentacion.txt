@@ -1,0 +1,23 @@
+
+ESTRATEGIA DE CONVERSIÓN "PACHA Y SAZÓN" (v2.1 - Datos Reales)
+
+OBJETIVO: Convertir el antojo en una conversación por WhatsApp mediante una experiencia fluida y profesional.
+
+1. DATOS ACTUALIZADOS:
+   - Número de WhatsApp: +51 950 313 744 (Actualizado según requerimiento del cliente).
+   - Enlace directo: https://wa.me/51950313744
+
+2. MEJORAS DE ANIMACIÓN (Framer Motion):
+   - Entradas escalonadas (stagger): Guían el ojo del usuario desde el titular hasta el CTA.
+   - Hover effects: Dan feedback visual de interactividad, reforzando la sensación de una app moderna.
+   - Micro-interacciones: El FAB de WhatsApp tiene una oscilación sutil para atraer la atención sin ser intrusivo.
+
+3. REORDENAMIENTO ESTRATÉGICO:
+   - Se movió la sección de Testimonios/Prueba Social al final (antes del footer).
+   - Razón: Sirve como el "impulso final" para el usuario que ha recorrido toda la propuesta y necesita un último empujón de confianza antes de contactar.
+
+4. PSICOLOGÍA DEL MICRO-COPY:
+   - "Respondemos en minutos": Reduce la fricción del primer contacto.
+   - "Consultar Menú de Hoy": Facilita la entrada al embudo de ventas.
+
+ESTADO DEL PROTOTIPO: Producción inicial lista para ser probada con el número real del restaurante.
